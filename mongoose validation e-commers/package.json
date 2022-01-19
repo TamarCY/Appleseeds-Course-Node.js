@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-validation-e-commers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose.js",
+  "scripts": {
+    "test": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.7",
+    "validator": "^13.7.0"
+  }
+}
